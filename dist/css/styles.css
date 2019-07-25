@@ -1,0 +1,23 @@
+.logo .button:hover {
+	background-color: #f0af9a;
+	color: #fff;
+}
+.logo {
+	border-bottom: solid 2px #f0af9a;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.logo .button {
+	margin-right: 10px;
+	transition: background-color 0.8s, color 0.8s;
+}
+
+.hiding {
+	/*visibility: hidden;*/
+	visibility: collapse;
+}
+
+
+
+
+
