@@ -19,6 +19,6 @@
     "webpack-cli": "^3.3.6"
   },
   "dependencies": {
-    "dynashow": "^1.0.0"
+    "dynashow": "^1.0.1"
   }
 }
