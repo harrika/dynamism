@@ -1,6 +1,5 @@
 
-import {controll} from './controller.js';
-
+const { controll } = require('dynashow')
 
 var stuff1 = document.getElementById("cont1");
 var stuff2 = document.getElementById("cont2");
